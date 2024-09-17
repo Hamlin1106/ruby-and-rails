@@ -1,0 +1,3 @@
+.radix-accordion__content {
+  overflow: visible; /* オーバーフローを許可してドロップダウンを正しく表示 */
+}

@@ -1,0 +1,8 @@
+ja:
+  enums:
+    search_condition:
+      report_type:
+        report_rate_last_month: "可働率前月比較"
+        report_error: "頻発停止"
+        report_line_rate: "可働率ライン比較"
+        report_work_rate: "労働生産性"
